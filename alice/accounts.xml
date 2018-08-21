@@ -4,7 +4,6 @@
 	<account>
 		<protocol>prpl-jabber</protocol>
 		<name>alice@localhost/</name>
-		<password>alice</password>
 		<statuses>
 			<status type='available' name='Available' active='true'>
 				<attributes/>
