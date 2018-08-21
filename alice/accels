@@ -28,6 +28,7 @@
 ; (gtk_accel_path "<PurpleMain>/Help/Developer Information" "")
 ; (gtk_accel_path "<PurpleMain>/Buddies/Show/Offline Buddies" "")
 ; (gtk_accel_path "<PurpleMain>/Help/Translator Information" "")
+; (gtk_accel_path "<main>/Conversation/More/OTR Settings" "")
 ; (gtk_accel_path "<PurpleMain>/Accounts/alice@localhost/ (XMPP)/Edit Account" "")
 ; (gtk_accel_path "<main>/Options/sep0" "")
 ; (gtk_accel_path "<main>/Conversation/Get Attention" "")

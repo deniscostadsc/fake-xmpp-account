@@ -47,6 +47,7 @@
 ; (gtk_accel_path "<PurpleMain>/Tools/Plugins" "<Primary>u")
 ; (gtk_accel_path "<PurpleMain>/Buddies/Show/Buddy Details" "")
 ; (gtk_accel_path "<main>/Conversation/Remove..." "")
+; (gtk_accel_path "<main>/Conversation/More/OTR Settings" "")
 ; (gtk_accel_path "<PurpleMain>/Help/sep2" "")
 ; (gtk_accel_path "<PurpleMain>/Buddies/sep1" "")
 ; (gtk_accel_path "<main>/Conversation/sep4" "")
